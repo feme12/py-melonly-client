@@ -178,5 +178,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - Documentation: [https://melonly-api.readthedocs.io/](https://melonly-api.readthedocs.io/)
-- Issues: [https://github.com/yourusername/melonly-api/issues](https://github.com/yourusername/melonly-api/issues)
+- Issues: [https://github.com/Melonly-Moderation/py-melonly-client/issues](https://github.com/Melonly-Moderation/py-melonly-client/issues)
 - Melonly API Documentation: [https://api.melonly.xyz/docs](https://api.melonly.xyz/docs)
